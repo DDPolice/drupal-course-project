@@ -1,3 +1,3 @@
 # Drupal Police
 
-tuk shte si opishesh proekta
+The project is for a products in one magazine of all category. when we can search for product or category.
